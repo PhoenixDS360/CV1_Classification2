@@ -51,7 +51,7 @@ def main():
     resize_height = 350
     resize_width  = 350
     model_dir  = './'
-    model_file = 'ensemble4.hdf5'
+    model_file = 'ensemble4.h5'
     sample_files_dir =  './images/'
     
     #mapping between breed names and its integer counterpart
